@@ -1,0 +1,26 @@
+{
+    "id": "D0070033",
+    "path": "~/Documents/shiny_crud_datamods/modules/artist_module.R",
+    "project_path": "modules/artist_module.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1733967667720.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "19,44",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1733969065,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1733969065796,
+    "read_only": false,
+    "read_only_alternatives": []
+}
